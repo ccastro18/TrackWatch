@@ -1,0 +1,9 @@
+torch>=1.7.0
+opencv-python-headless
+matplotlib
+pandas
+seaborn
+PyYAML>=5.3.1
+tqdm>=4.41.0
+scipy>=1.4.1
+torchvision>=0.8.1
